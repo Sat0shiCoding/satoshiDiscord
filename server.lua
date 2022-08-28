@@ -15,3 +15,4 @@ AddEventHandler("chatMessage", function(s, n, m)
 	end
 end)
 
+-- DONT TOUCH THIS CODE
